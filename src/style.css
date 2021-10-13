@@ -2,6 +2,8 @@
 
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 html {
@@ -13,4 +15,9 @@ html {
   width: auto;
   height: 1em;
   margin-right: 0.3em;
+}
+
+body{
+  background-color: rgb(221, 216, 216);
+  padding-bottom: 20px;
 }
