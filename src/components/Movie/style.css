@@ -8,6 +8,12 @@
     width: 30%;
     padding: 20px;   
     position: relative;   
+    flex-grow: 1;
+}
+
+.movie:last-of-type{
+    flex-grow: 0;
+    width: 33.3%;
 }
 
 .poster img{
